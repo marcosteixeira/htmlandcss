@@ -1,16 +1,18 @@
-a {
-	color: red;
-	text-decoration: none;
-}
-
-h1 {
+body {
+	background-color: #d3d3d3;
 	font-family: helvetica, Arial, sans-serif;
 }
 
-div {
-	width: 500px;
-	background: red;
-	margin: auto;
+.body {
+	margin-left: 500px;
+	text-align: left;
+}
+
+blockquote {	
 	text-align: center;
+	border: 1px solid white;
+	width: 500px;
 
 }
+
+
