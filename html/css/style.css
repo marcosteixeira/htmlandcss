@@ -1,18 +1,19 @@
 body {
 	background-color: #d3d3d3;
-	font-family: helvetica, Arial, sans-serif;
-}
-
-.body {
-	margin-left: 500px;
-	text-align: left;
+	font-family: sans-serif;
 }
 
 blockquote {	
 	text-align: center;
-	border: 1px solid white;
-	width: 500px;
-
+	border: 1px solid white;	
+	margin-left: 0;
 }
+
+.wrap {
+	width: 500px;
+	margin: auto;
+}
+
+
 
 
